@@ -1,20 +1,11 @@
 ---
-title: "Teaching Assistant"
+title: "Teaching Assistant | Scalable Systems for Data Science (DS256)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2018-DS256
+venue: "Department of Computational and Data Sciences, Indian Institute of Science"
+date: 2018-01-01
+location: "Bangalore, India"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+As a Teaching Assistant of Scalable Systems for Data Science, I was responsible for conducting tutorials, checking assignments and, deploying and maintaining containerized enviroments for each student.
