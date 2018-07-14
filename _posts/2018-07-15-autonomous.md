@@ -8,15 +8,7 @@ tags:
   - internet of things
 ---
 
-March 2018 was a month that had a deep impact on how the society looks at technology.
+March 2018 was a month that had a deep impact on how the society looks at technology. The Cambridge Analytica scandal and, the fatality of a pedestrian after being mowed down by a self-driving Uber together spelled the dark side of technology.
 
-Smart cities need smarter governments.
+Smart cities need smarter governments. 
 
-Headings are cool
-======
-
-You can have many headings
-======
-
-Aren't headings cool?
-------
