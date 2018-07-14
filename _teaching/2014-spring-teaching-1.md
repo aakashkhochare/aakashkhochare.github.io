@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant | Scalable Systems for Data Science (DS256)"
+title: "Teaching Assistant, Scalable Systems for Data Science (DS256)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2018-DS256
