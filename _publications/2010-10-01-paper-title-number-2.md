@@ -1,15 +1,24 @@
 ---
-title: "Paper Title Number 2"
+title: "Distributed Video Analytics across Edge and
+Cloud using ECHO"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/ECHO-VIDEO
+excerpt: 'In this
+demonstration, we illustrate the capabilities of ECHO for deploying sev-
+eral video analytics applications to support smart city use-cases.'
+date:  2017-11-13
+venue: 'International Conference on Service-Oriented Computing (Demo)'
+paperurl: 'http://aakashkhochare.github.io/files/Distributed-Video-Analytics-across-Edge-and-Cloud-using-ECHO.pdf'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+Analytics over urban video streams is well suited for dis-
+tributed computing across Edge, Fog and Cloud. Such streams are net-
+work intensive, making it is prohibitive to fully transfer them to the
+Cloud. Deep Neural Networks have achieved remarkable accuracy in im-
+age classification, but are computationally costly on just Edge devices.
+We propose ECHO as a big data platform to compose IoT dataflows
+and seamlessly distribute them across Edge and Cloud resources. In this
+demonstration, we illustrate the capabilities of ECHO for deploying sev-
+eral video analytics applications to support smart city use-cases.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](http://aakashkhochare.github.io/files/Distributed-Video-Analytics-across-Edge-and-Cloud-using-ECHO.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
