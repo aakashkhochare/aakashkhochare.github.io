@@ -7,4 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently pursuing my PhD at the [DREAM Lab](http://dream-lab.cds.iisc.ac.in) in the [Department of Computational and Data Sciences](http://cds.iisc.ac.in/) at the [Indian Institute of Science](https://iisc.ac.in/). While the broad scope of my work pertains to Distributed Systems, I am currently exploring system side requirements to support computer vision application for Internet of Things applications. As a consequence I am exposed to a variety of work on Smart Cities and Deep Learning as well.
+I am currently pursuing my PhD at the [DREAM Lab](http://dream-lab.cds.iisc.ac.in) in the [Department of Computational and Data Sciences](http://cds.iisc.ac.in/) at the [Indian Institute of Science](https://iisc.ac.in/). Video streams from surveillance cameras deployed across a smart city can be used to track the movement of a Person of Interest in real time. My work involves addressing system-side challenges involved in distributed wide area tracking.
+Existing surveillance systems are *proprietary and monolithic*; they lack the composability required to keep pace with the rapid advancements in Deep Learning. They also lack approaches to mitigate the high computational requirement of Deep Neural networks.
+We have designed Anveshak, a programming model that captures the building blocks of object tracking to facilitate composability. We have also deigned heuristics based batching and data dropping logic that is guided by a user defined max latency. This allows Anveshak to process only those events that can meet the requested latency and avoid wasting compute.
+We have scaled Anveshak to *1000* cameras on 10, 8 core VMs which is a *25x* improvement over the baseline.
