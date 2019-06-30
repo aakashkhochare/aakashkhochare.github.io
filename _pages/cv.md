@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.E. in Computer Engineering, Mumbai University, 2016
+* Ph.D in Computer Science, Indian Institute of Science, Bangalore, 2016-present
+* B.E. in Computer Engineering, Mumbai University, 2012-2016
 
 
 Publications
@@ -28,5 +29,7 @@ Teaching
   
 Service and leadership
 ======
+* Chairperson, ACM IISc Student Chapter, Bangalore (2019-present)
+* Co-founder, ACM IISc Student Chapter, Bangalore
 * Student Representative, Department of Computational and Data Sciences, IISc, Bangalore (2017-2018)
 * Robotics Club In-Charge, SIES College of Engineering, Mumbai (2015-2016)
